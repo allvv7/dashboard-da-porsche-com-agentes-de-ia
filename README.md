@@ -4,6 +4,10 @@
 [![Tech Stack](https://img.shields.io/badge/AI%20Agents-Gemini%20Spark%20%7C%20Antigravity-d5001c?style=for-the-badge)](https://deepmind.google)
 [![Design](https://img.shields.io/badge/Design-Porsche%20Luxury%20Glass-c5a059?style=for-the-badge)](https://porsche.com)
 [![Security](https://img.shields.io/badge/Security-Audit%20Passed%20%26%20CSP%20Active-10b981?style=for-the-badge)](docs/SECURITY_AUDIT.md)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://allvv7.github.io/dio-porsche-sales-intelligence/)
+
+> 🌐 **Acesse a Demonstração Online no GitHub Pages:** [https://allvv7.github.io/dio-porsche-sales-intelligence/](https://allvv7.github.io/dio-porsche-sales-intelligence/)  
+> 🔗 **Repositório Oficial no GitHub:** [https://github.com/allvv7/dio-porsche-sales-intelligence](https://github.com/allvv7/dio-porsche-sales-intelligence)
 
 Este projeto foi desenvolvido como entrega de excelência para a formação da **DIO (Digital Innovation One)**, com foco na construção de aplicações analíticas interativas de alta fidelidade fora dos limites convencionais de softwares de BI (*out-of-bounds*).
 
